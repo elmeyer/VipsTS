@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="vipsjs">
+    <output-path>$PROJECT_DIR$/out/artifacts/vipsjs</output-path>
+    <root id="root" />
+  </artifact>
+</component>
