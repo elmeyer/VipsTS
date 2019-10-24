@@ -1,6 +1,6 @@
 VipsTS
 ======
-A TypeScript (transpilable to JavaScript) port of Tomas Popela's [vips_java](https://github.com/tpopela/vips_java).
+A TypeScript (transpilable to JavaScript) port of Tomáš Popela's [vips_java](https://github.com/tpopela/vips_java).
 
 #### Differences / Drawbacks
 - does not support graphical output
